@@ -6,19 +6,26 @@ namespace MyConsoleApp
 {
     class Circle
     {
-       public double radius=1;
+        public double radius = 1; // instance variables
 
-        public Circle() { }
+        public static int numberOfCircles = 0;
+
+        public Circle()
+        {
+            numberOfCircles = numberOfCircles + 1;
+        }
 
         public Circle(double r)
         {
-            radius=r;
+            radius = r;
+            numberOfCircles = numberOfCircles + 1;
         }
 
 
         public double getArea()
         {
-            return Math.PI * radius * radius;
+            double area = Math.PI * radius * radius;
+            return area;
         }
 
         public double getPerimeter()
@@ -29,7 +36,7 @@ namespace MyConsoleApp
 
 
 
-       
+
 
     }
 }
