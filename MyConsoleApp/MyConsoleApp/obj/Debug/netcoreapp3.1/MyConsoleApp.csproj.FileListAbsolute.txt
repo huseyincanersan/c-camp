@@ -12,3 +12,17 @@ C:\Users\Can\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyCo
 C:\Users\Can\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.dll
 C:\Users\Can\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.pdb
 C:\Users\Can\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.dll
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.pdb
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.exe
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.deps.json
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.json
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.dll
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.pdb
+C:\Users\Can\Desktop\c# camp\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.genruntimeconfig.cache

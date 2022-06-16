@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\obj"
   ],
-  "SelectedNode": "\\Circle.cs",
+  "SelectedNode": "\\MyConsoleApp.csproj",
   "PreviewInSolutionExplorer": false
 }
